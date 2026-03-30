@@ -30,4 +30,9 @@ datasets/processed/*
 *.bak
 *.swp
 
+!tools/fonts/NotoSansTC-Regular.ttf
 !datasets/raw/taxation/
+
+
+/tools/fonts/Noto_Sans_TC
+*.zip
