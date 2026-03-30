@@ -29,3 +29,5 @@ datasets/processed/*
 *.out
 *.bak
 *.swp
+
+!datasets/raw/taxation/
